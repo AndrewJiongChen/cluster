@@ -1,0 +1,1 @@
+SE incluyen los diagramas autosar de las 4 funcionalidades del Cluster y sus respectivas maquinas de estados.
